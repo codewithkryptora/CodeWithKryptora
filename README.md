@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/aii.jpg)
+![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/Picture3.gif)
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">Founder of Kryptora from India</h3>
 
